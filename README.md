@@ -11,7 +11,7 @@ I decide from measured data: build it, measure it, break it on purpose, and fix 
 | [**Adaptive MCSA**](https://github.com/ImymemineJ/KHU_Adaptive_MCSA) | Motor-current fault diagnosis on 2× STM32 | C, DMA ping-pong FFT, SPI, adaptive thresholds |
 | [**RALLY**](https://github.com/ImymemineJ/ROKEY_RALLY) | Rehabilitation partner robot on Doosan M0609 | ROS 2, 100 Hz safety monitor, compliance control |
 | [**TUNIO**](https://github.com/ImymemineJ/ROKEY_TUNIO) | Robotic guitar tuning, 4 strings within ±10 cents | ROS 2, FFT + YIN pitch detection |
-| [**MRO Multi-AMR**](https://github.com/ImymemineJ/ROKEY_MRO_Multi_AMR) | Aircraft-maintenance support with 2× TurtleBot4 (my part: vision) | ROS 2, worker following + parts shuttle |
+| [**MRO Multi-AMR**](https://github.com/ImymemineJ/ROKEY_MRO_Multi_AMR) | Aircraft-maintenance support with 2× TurtleBot4 | ROS 2, worker following + parts shuttle |
 | [**Palletris**](https://github.com/ImymemineJ/ROKEY_Palletris) | Digital-twin palletizing with 3D bin packing | Isaac Sim, ROS 2 |
 
 ### Tools I use
