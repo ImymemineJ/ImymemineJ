@@ -1,8 +1,5 @@
 ## Hi, I'm Jeongin Jeong 👋
 
-Embedded software & robotics — **firmware, sensing, and validation** on real hardware.  
-I decide from measured data: build it, measure it, break it on purpose, and fix what the numbers show.
-
 ### Featured projects
 
 | Project | What it is | Stack |
